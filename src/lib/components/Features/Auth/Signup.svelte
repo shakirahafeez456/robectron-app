@@ -58,7 +58,7 @@
   
   <div class="form-section" transition:fade={{ duration: 300 }}>
     <div class="logo-container">
-      <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CwNkcnAtriJAIHbFd2SqAjFvCLuvsy.png" alt="Robectron Logo" class="logo" />
+      <!-- <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CwNkcnAtriJAIHbFd2SqAjFvCLuvsy.png" alt="Robectron Logo" class="logo" /> -->
     </div>
     
     <div class="form-container">
@@ -182,7 +182,8 @@
     flex-direction: column;
     min-height: 100vh;
     width: 100%;
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
+    background-color: rgb(32, 31, 31);
   }
   
   .logo-container {
@@ -372,7 +373,7 @@
     
     .hero-section {
       flex: 1;
-      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-i110cX7mZylqCCFU2XpIs2wkWoQACG.png');
+      /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-i110cX7mZylqCCFU2XpIs2wkWoQACG.png'); */
       background-size: cover;
       background-position: center;
       display: flex;
